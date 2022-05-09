@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 1244620316
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: linus_fat_rm
+      Dependencies: {}
+    Info_1:
+      Name: linus_thin_ip
+      Dependencies: {}
+    Info_2:
+      Name: cat_anim_controller
+      Dependencies: {}

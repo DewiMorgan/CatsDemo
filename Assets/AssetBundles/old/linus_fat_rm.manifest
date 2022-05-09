@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2049115072
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 90d94792238b6165e0f7d728fb7f1e7b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ee5e9cc66f299d035f3150c97a9297cb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Realistic/Domestic Animals/Cats/Cat_male_Full/prefabs/Linus_Fat_HIghPoly.prefab
+Dependencies: []

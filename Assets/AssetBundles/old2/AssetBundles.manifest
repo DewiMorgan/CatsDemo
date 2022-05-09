@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 744111899
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: linus_fat_rm
+      Dependencies: {}
+    Info_1:
+      Name: linus_thin_ip
+      Dependencies: {}
